@@ -1,0 +1,12 @@
+D:\Tip Calculator\TipCalculator\TipCalculator\bin\Release\TipCalculator.exe.config
+D:\Tip Calculator\TipCalculator\TipCalculator\bin\Release\TipCalculator.exe
+D:\Tip Calculator\TipCalculator\TipCalculator\bin\Release\TipCalculator.pdb
+D:\Tip Calculator\TipCalculator\TipCalculator\bin\Release\TipCalculator.xml
+D:\Tip Calculator\TipCalculator\TipCalculator\obj\Release\TipCalculator.vbprojAssemblyReference.cache
+D:\Tip Calculator\TipCalculator\TipCalculator\obj\Release\TipCalculator.Form1.resources
+D:\Tip Calculator\TipCalculator\TipCalculator\obj\Release\TipCalculator.Resources.resources
+D:\Tip Calculator\TipCalculator\TipCalculator\obj\Release\TipCalculator.vbproj.GenerateResource.cache
+D:\Tip Calculator\TipCalculator\TipCalculator\obj\Release\TipCalculator.vbproj.CoreCompileInputs.cache
+D:\Tip Calculator\TipCalculator\TipCalculator\obj\Release\TipCalculator.exe
+D:\Tip Calculator\TipCalculator\TipCalculator\obj\Release\TipCalculator.xml
+D:\Tip Calculator\TipCalculator\TipCalculator\obj\Release\TipCalculator.pdb
